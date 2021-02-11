@@ -9,7 +9,7 @@
     "watch": "webpack --config configs/webpack.dev.config.js --mode=development --watch",
     "build:dev": "webpack --config configs/webpack.dev.config.js --mode=development",
     "build:production": "webpack --config configs/webpack.prod.config.js --mode=production"
-  },
+  },k
   "keywords": [],
   "author": "",
   "license": "ISC",
